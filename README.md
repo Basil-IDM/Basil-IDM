@@ -2,6 +2,8 @@
 <h3 align="center">A passionated learning developer in Germany Who Look for better opertuninty</h3>
 
 - 🔭 I’m currently a Computer Science Student **At IU International University Germany**
+- 👨‍💻 I love to work as a team Contributing Ideas and plan with a deep discusion
+- ⚙️ Don't hwesitate to contact me ❤️ to communicate
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
