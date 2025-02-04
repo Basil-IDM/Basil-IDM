@@ -5,7 +5,7 @@
 - 👨‍💻 I love to work as a team Contributing Ideas and plan with a deep discusion
 - ⚙️ Don't hesitate to contact me ❤️ to communicate
 - 🌱 I’m currently learning FullStack Developement
-- 😄 Bad in German 👍 in English 👌 in Malayalam 😊😊
+- 😄 👎 in German 👍 in English 👌 in Malayalam 😊😊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
